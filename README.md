@@ -37,28 +37,39 @@ YouTube_Video_Downloader/
 │
 
 ├── main.py
+
 │ └── Main application file
+
 │ └── Contains GUI design using Tkinter
+
 │ └── Takes YouTube URL input
+
 │ └── Downloads videos using Pytubefix
+
 │ └── Handles errors and user messages
 
 │
 
 ├── requirements.txt
+
 │ └── Stores all required Python libraries
+
 │ └── Contains project dependencies
 
 │
 
 ├── README.md
+
 │ └── Project documentation file
+
 │ └── Includes features, installation steps and usage details
 
 │
 
 └── venv/
+
 └── Virtual environment folder
+
 └── Contains installed Python packages for this project
 
 ---
@@ -67,7 +78,7 @@ YouTube_Video_Downloader/
 ### 1. Clone the Repository
 Download or clone the project from GitHub:
 '''bash
-git clone YOUR_REPOSITORY_URL
+    git clone YOUR_REPOSITORY_URL
 '''
 
 ---
@@ -84,16 +95,16 @@ Steps:
 3. Select the project folder:
 
 '''text
-YouTube_Video_Downloader
+    YouTube_Video_Downloader
 '''
 
-4. Click **Open**
+4. Click ** Open**
 
 
 You can also open the project using terminal:
 
 '''bash
-cd YouTube_Video_Downloader
+    cd YouTube_Video_Downloader
 '''
 
 ---
@@ -102,7 +113,7 @@ cd YouTube_Video_Downloader
 Create a virtual environment for the project:
 
 '''bash
-python -m venv venv
+    python -m venv venv
 '''
 
 ---
@@ -111,13 +122,13 @@ python -m venv venv
 For Windows:
 
 '''bash
-venv\Scripts\activate
+    venv\Scripts\activate
 '''
 
 After activation, you will see:
 
 '''
-(venv)
+    (venv)
 '''
 
 
@@ -128,7 +139,7 @@ in the terminal.
 Install all project dependencies:
 
 '''bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 '''
 
 ---
@@ -137,7 +148,7 @@ pip install -r requirements.txt
 Start the YouTube Video Downloader:
 
 '''bash
-python main.py
+    python main.py
 '''
 
 ---
