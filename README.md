@@ -77,8 +77,9 @@ YouTube_Video_Downloader/
 ## ⚙️ Installation and Setup
 ### 1. Clone the Repository
 Download or clone the project from GitHub:
+
 '''bash
-    git clone YOUR_REPOSITORY_URL
+git clone YOUR_REPOSITORY_URL
 '''
 
 ---
