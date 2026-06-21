@@ -78,9 +78,9 @@ YouTube_Video_Downloader/
 ### 1. Clone the Repository
 Download or clone the project from GitHub:
 
-'''bash
+```bash
 git clone YOUR_REPOSITORY_URL
-'''
+```
 
 ---
 
@@ -91,66 +91,68 @@ Steps:
 
 1. Open Visual Studio Code
 
-2. Click on File → Open Folder
+2. Click on  **File → Open Folder**
 
 3. Select the project folder:
 
-'''text
+```text
     YouTube_Video_Downloader
-'''
+```
 
-4. Click ** Open**
+4. Click **Open**
 
 
 You can also open the project using terminal:
 
-'''bash
+```bash
     cd YouTube_Video_Downloader
-'''
+```
 
 ---
 ### 3. Create Virtual Environment
 
 Create a virtual environment for the project:
 
-'''bash
+```bash
     python -m venv venv
-'''
+```
 
 ---
 ### 4. Activate Virtual Environment
 
 For Windows:
 
-'''bash
+```bash
     venv\Scripts\activate
-'''
+```
 
 After activation, you will see:
 
-'''
+```
     (venv)
-'''
+```
 
 
 in the terminal.
+
+---
 
 ### 5. Install Required Libraries
 
 Install all project dependencies:
 
-'''bash
+```bash
     pip install -r requirements.txt
-'''
+```
 
 ---
 ### 6. Run the Application
 
 Start the YouTube Video Downloader:
 
-'''bash
+```bash
     python main.py
-'''
+```
 
 ---
 
@@ -177,7 +179,7 @@ Before running the project, make sure you have the following installed:
 
 - Python 3.x
 - Visual Studio Code
-- 
+  
 ## Python Libraries
 - pytubefix
 
