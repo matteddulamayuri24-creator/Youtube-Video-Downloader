@@ -1,11 +1,13 @@
 ### INTERN ID: CITS2067
 ## 🎬 YouTube Video Downloader
 A Python-based YouTube Video Downloader application with a simple graphical user interface (GUI).
+
 This project allows users to download YouTube videos by entering a video URL and selecting a download location.
 
 ---
 ## 📌 Project Overview
 The YouTube Video Downloader is a desktop application built using Python.
+
 It uses the YouTube video processing library to fetch video streams and download videos directly to the user's selected folder.
 
 The application provides an easy-to-use interface without requiring command-line knowledge.
